@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Touiteur</string>
+    <string name="com.twitter.sdk.android.CONSUMER_KEY">3g4iP636GhDGVWO1OOjL2dqTC</string>
+    <string name="com.twitter.sdk.android.CONSUMER_SECRET">tFDiqvg4hQLpkGwxuiPkVMqaG9fJBDeMeh60Fiq6fCowBS9LFC</string>
+</resources>
